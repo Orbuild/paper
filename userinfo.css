@@ -1,0 +1,101 @@
+#app {
+
+      display: -webkit-box;
+
+      display: -ms-flexbox;
+
+      display: flex;
+
+      -webkit-box-orient: vertical;
+
+      -webkit-box-direction: normal;
+
+      -ms-flex-direction: column;
+
+      flex-direction: column;
+
+      height: 100%;
+
+  }
+
+
+
+  article, aside, audio, body, canvas, caption, details, div, figure, footer, header, hgroup, html, iframe, img, mark, menu, nav, object, section, span, summary, table, tbody, td, tfoot, thead, tr, video {
+
+      border: 0;
+
+      margin: 0;
+
+      padding: 0;
+
+  }
+
+  div, span, object, iframe, img, table, caption, thead, tbody, tfoot, tr, tr, td, article, aside, canvas, details, figure, hgroup, menu, nav, footer, header, section, summary, mark, audio, video, ul, li, dl, dt, dd {
+
+      border: 0;
+
+      margin: 0;
+
+      padding: 0;
+
+  }
+
+  * {
+
+      margin: 0;
+
+      padding: 0;
+
+  }
+
+  * {
+
+      -webkit-box-sizing: border-box;
+
+      box-sizing: border-box;
+
+  }
+
+  div {
+
+      display: block;
+
+  }
+
+  body, html {
+
+      font-family: PingFangSC-Regular!important;
+
+      line-height: 1.2;
+
+  }
+
+  .h1, .h2, .h3, .h4, .h5, .h6, a, abbr, body, cite, dd, dl, dt, h1, h2, h3, h4, h5, h6, iframe, input, li, object, ol, p, pre, span, ul {
+
+      font-family: 'Microsoft YaHei','SF Pro Display',Roboto,Noto,Arial,'PingFang SC',sans-serif;
+
+  }
+
+  html, body {
+
+      min-height: 100%;
+
+      border: 0;
+
+      font-family: "PingFangSC-Regular" !important;
+
+      line-height: 1.2;
+
+      margin: 0;
+
+      padding: 0;
+
+  }
+
+  user agent stylesheet
+
+  html {
+
+      color: -internal-root-color;
+
+  }
