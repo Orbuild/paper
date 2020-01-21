@@ -1435,6 +1435,7 @@ input[type="checkbox"][data-v-7afe6b7e] {
     height: 90px;
     line-height: 90px;
     border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 15px;
 }
 .cont .right_cont div.user_info[data-v-0d738edb] {
     overflow: hidden;
@@ -1619,6 +1620,7 @@ input[type="checkbox"][data-v-7afe6b7e] {
     font-size: 14px;
     color: #4d4d4d;
     overflow: hidden;
+    margin-bottom: 30px;
 }
 .cont .right_cont div.user_info .right_c .self .intro .noWid[data-v-0d738edb] {
     float: left;
@@ -6123,5 +6125,6 @@ a {
 }
 
 div.user_info {
-    margin-bottom: 100px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e0e0e0;
 }
