@@ -388,7 +388,7 @@ a[data-v-357a65ed] {
     color: #fff;
 }
 .container .view-container[data-v-357a65ed] {
-    margin-left: 200px;
+    /*margin-left: 200px;*/
     background-color: #fff;
     min-height: 95%;
     padding: 0 32px 30px 32px;
@@ -853,7 +853,7 @@ input[type="checkbox"][data-v-7afe6b7e] {
     line-height: 54px;
 }
 .containter-skin .title[data-v-2a98e4d1] {
-    font-size: 16px;
+    font-size: 160px;
     color: #3d3d3d;
 }
 /*# sourceMappingURL=src/pages/uc/collection/DialogComponent.css.map */
@@ -1451,6 +1451,7 @@ input[type="checkbox"][data-v-7afe6b7e] {
     border-radius: 50%;
     margin: 0 auto;
     margin-top: 16px;
+    margin-right: 30px;
 }
 .cont .right_cont div.user_info .header .modify[data-v-0d738edb] {
     font-size: 14px;
@@ -6119,4 +6120,8 @@ a {
     color: #ba271a;
     margin-right: 4px;
     font-style: normal;
+}
+
+div.user_info {
+    margin-bottom: 100px;
 }
